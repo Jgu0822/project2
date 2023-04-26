@@ -7,8 +7,8 @@
 - Naver API
 - Open API (영화, 버스, 날씨)
 - 시나리오 ChatBot
-- <a href="https://drive.google.com/file/d/1FHsI-rX1OwNvUHFveiYDsOoQJynPFCqZ/view?usp=share_link">프로젝트PPT(영상포함)</a><br>
-- <a href="https://drive.google.com/file/d/109rDivj4s2M8NQT8NK4cvoIN1rKUvSya/view?usp=share_link">2차 프로젝트 ERD</a><br>
+#### 프로젝트 <a href="https://drive.google.com/file/d/1FHsI-rX1OwNvUHFveiYDsOoQJynPFCqZ/view?usp=share_link">PPT(영상포함)</a><br>
+#### 2차 프로젝트 <a href="https://drive.google.com/file/d/109rDivj4s2M8NQT8NK4cvoIN1rKUvSya/view?usp=share_link">ERD</a><br>
 
 ## 🕰️ 개발 기간
 * 23.03.14(화) - 23.04.06(목) (약 4주)
