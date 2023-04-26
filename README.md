@@ -20,11 +20,12 @@
  - Komoran 기반 챗봇 기능구현 및 디자인
 
 ### ⚙️ 개발 환경
-- `Java 11`
+- `Java 11` `HTML5` `CSS3`
 - `JDK 1.8.0`
-- `IDE` : STS 4.17.1
+- `IDE` : IntelliJ IDEA, Visual Studio Code
 - `Framework` : Springboot(2.7.8)
 - `Database` : MySQL
+- `ORM` : JPA
 
 ## 📌 주요 기능
 #### 결재관리 <a href="https://rainbow-emmental-182.notion.site/7132e3d94366461e9e5cf5dedf78cb23">상세보기 - Notion 이동</a>
