@@ -3,11 +3,12 @@
 ## 🖥️ 프로젝트 소개
 그룹웨어를 참고하여 만든 조직관리에 
 필요한 회원관리, 일정관리, 회계관리 사이트입니다.<br>
-- <a href="https://drive.google.com/file/d/1FHsI-rX1OwNvUHFveiYDsOoQJynPFCqZ/view?usp=share_link">프로젝트PPT(영상포함)</a><br>
-- <a href="https://drive.google.com/file/d/109rDivj4s2M8NQT8NK4cvoIN1rKUvSya/view?usp=share_link">2차 프로젝트 ERD</a><br>
+
 - Naver API
 - Open API (영화, 버스, 날씨)
 - 시나리오 ChatBot
+- <a href="https://drive.google.com/file/d/1FHsI-rX1OwNvUHFveiYDsOoQJynPFCqZ/view?usp=share_link">프로젝트PPT(영상포함)</a><br>
+- <a href="https://drive.google.com/file/d/109rDivj4s2M8NQT8NK4cvoIN1rKUvSya/view?usp=share_link">2차 프로젝트 ERD</a><br>
 
 ## 🕰️ 개발 기간
 * 23.03.14(화) - 23.04.06(목) (약 4주)
