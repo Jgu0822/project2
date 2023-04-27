@@ -28,22 +28,22 @@
 - `ORM` : JPA
 
 ## 📌 주요 기능
-#### 결재관리 <a href="https://rainbow-emmental-182.notion.site/7132e3d94366461e9e5cf5dedf78cb23">상세보기 - Notion 이동</a>
+#### 결재관리 <a href="https://github.com/Jgu0822/project2/wiki/%EA%B2%B0%EC%9E%AC%EA%B4%80%EB%A6%AC#%EF%B8%8F-%EA%B2%B0%EC%9E%AC%EA%B4%80%EB%A6%AC">상세보기 - Notion 이동</a>
 - approval Entity
 - approval Dto
 - approval Repository
-#### 결재서류 작성 <a href="https://rainbow-emmental-182.notion.site/2a50dba862d9456fb8c9f05435cba3ed">상세보기 - Notion 이동</a>
+#### 결재서류 작성 <a href="https://github.com/Jgu0822/project2/wiki/%EA%B2%B0%EC%9E%AC%EA%B4%80%EB%A6%AC#%EF%B8%8F-%EA%B2%B0%EC%9E%AC%EC%84%9C%EB%A5%98-%EC%9E%91%EC%84%B1">상세보기 - Notion 이동</a>
 - 결재서류 작성(기안자)
 - 결재서류 파일 등록
-#### 결재서류 목록 <a href="https://rainbow-emmental-182.notion.site/03300378d8854f92b5ec35e0e54ae2a4">상세보기 - Notion 이동</a>
+#### 결재서류 목록 <a href="https://github.com/Jgu0822/project2/wiki/%EA%B2%B0%EC%9E%AC%EA%B4%80%EB%A6%AC#%EF%B8%8F-%EA%B2%B0%EC%9E%AC%EC%84%9C%EB%A5%98-%EB%AA%A9%EB%A1%9D">상세보기 - Notion 이동</a>
 - 결재서류 목록
-#### 결재서류 수정 <a href="https://rainbow-emmental-182.notion.site/0ebe610e0c254731be4130dc183721ce">상세보기 - Notion 이동</a>
+#### 결재서류 수정 <a href="https://github.com/Jgu0822/project2/wiki/%EA%B2%B0%EC%9E%AC%EA%B4%80%EB%A6%AC#%EF%B8%8F-%EA%B2%B0%EC%9E%AC%EC%84%9C%EB%A5%98-%EC%88%98%EC%A0%95">상세보기 - Notion 이동</a>
 - 결재서류 수정(기안자)
-#### 결재서류 삭제 <a href="https://rainbow-emmental-182.notion.site/226ccb9c5c94413096d4166914f869bd">상세보기 - Notion 이동</a>
+#### 결재서류 삭제 <a href="https://github.com/Jgu0822/project2/wiki/%EA%B2%B0%EC%9E%AC%EA%B4%80%EB%A6%AC#%EF%B8%8F-%EA%B2%B0%EC%9E%AC%EC%84%9C%EB%A5%98-%EC%82%AD%EC%A0%9C">상세보기 - Notion 이동</a>
 - 결재서류 삭제(기안자)
-#### 조직관리 - 팀조회 <a href="https://rainbow-emmental-182.notion.site/f9b27c042c6d4456902da0f6920b576d">상세보기 - Notion 이동</a>
+#### 조직관리 - 팀조회 <a href="https://github.com/Jgu0822/project2/wiki/%EC%A1%B0%EC%A7%81%EA%B4%80%EB%A6%AC#%EF%B8%8F-%ED%8C%80-%EC%A1%B0%ED%9A%8C">상세보기 - Notion 이동</a>
 - member_management
-#### 조직관리 - 팀배치 <a href="https://rainbow-emmental-182.notion.site/14c675e0dda7470891c5f55e3df1f4c7">상세보기 - Notion 이동</a>
+#### 조직관리 - 팀배치 <a href="https://github.com/Jgu0822/project2/wiki/%EC%A1%B0%EC%A7%81%EA%B4%80%EB%A6%AC#%EF%B8%8F-%ED%8C%80-%EB%B0%B0%EC%B9%98">상세보기 - Notion 이동</a>
 - member_managementPlace
-#### ChatBot(Komoran) <a href="https://rainbow-emmental-182.notion.site/ChatBot-Komoran-0d40c824bdd24655933077f90d56cf8b">상세보기 - Notion 이동</a>
+#### ChatBot(Komoran) <a href="https://github.com/Jgu0822/project2/wiki/ChatBot(Komoran)#-chatbotkomoran">상세보기 - Notion 이동</a>
 - Komoran(한국어 형태소 분석기) 이용
