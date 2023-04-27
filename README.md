@@ -8,6 +8,7 @@
 - Open API (영화, 버스, 날씨)
 - 시나리오 ChatBot
 #### 프로젝트 <a href="https://drive.google.com/file/d/1FHsI-rX1OwNvUHFveiYDsOoQJynPFCqZ/view?usp=share_link">PPT(영상포함) - 링크 이동</a><br>
+⚠️ 동영상 이미지 클릭시 동영상이 재생됩니다.<br>
 #### 2차 프로젝트 <a href="https://drive.google.com/file/d/109rDivj4s2M8NQT8NK4cvoIN1rKUvSya/view?usp=share_link">ERD - 링크 이동</a><br>
 
 ## 🕰️ 개발 기간
